@@ -1,2 +1,4 @@
-# HTML5-CSS3-CursoEmVideo
-HTML5 and CSS3 exercises from Curso em Vídeo
+# html-css-new
+ Curso de HTML5 e CSS3
+
+ Estou aprendendo a criar sites e agora vou gerenciar repositórios.
